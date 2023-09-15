@@ -1,9 +1,6 @@
 # Mahdi Rahmani
 ### Android Developer
 
-## Usage
- for Download my resume please click [this link](https://github.com/MahdiRahmani80/Resume/raw/main/mahdi-rahmani.pdf)
-
 
 ### and also you can see my resume in code! (Kotlin)
 
